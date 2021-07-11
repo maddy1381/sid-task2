@@ -1,0 +1,10 @@
+body,nav,button{
+     background-image: linear-gradient(to right, #614385, #516395);
+     /* background-image: linear-gradient(to right, #00c6ff, #0072ff); */
+     /* background-image: linear-gradient(to right, #136a8a, #267871); */
+     
+}
+
+button{
+     border: none;
+}
